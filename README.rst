@@ -67,3 +67,5 @@ If you edit this document, please stick to the following guidelines:
     <http://www.sphinx-doc.org/en/stable/rest.html>`_ without sphinx extensions
     (github ignores them).
 -   Write English, but always provide a German translation for the term.
+-   To propose a change, please create a pull request at `github
+    <https://github.com/liqd/liqd-glossary/edit/master/README.rst>`_.
